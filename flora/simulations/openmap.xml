@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.0.1 (541715 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+	<way id="244161098" visible="true" version="3" changeset="155134285" timestamp="2024-08-12T07:51:29Z" user="celmap" uid="19418664">
+		<nd ref="597687614"/>
+		<nd ref="1517538585"/>
+		<nd ref="298729758"/>
+		<nd ref="298729760"/>
+		<nd ref="1621212658"/>
+		<nd ref="1517525783"/>
+		<nd ref="1621207268"/>
+		<nd ref="1621207269"/>
+		<nd ref="1621207270"/>
+		<nd ref="1517525799"/>
+		<nd ref="2426275347"/>
+		<nd ref="1621206979"/>
+		<nd ref="1621207036"/>
+		<nd ref="1621207034"/>
+		<nd ref="1621207033"/>
+		<nd ref="1621207032"/>
+		<nd ref="1621207017"/>
+		<nd ref="1621207012"/>
+		<nd ref="1621207010"/>
+		<nd ref="1621207008"/>
+		<nd ref="1621207006"/>
+		<nd ref="1621207002"/>
+		<nd ref="1621207001"/>
+		<nd ref="1621206999"/>
+		<nd ref="1621206997"/>
+		<nd ref="12105723956"/>
+		<nd ref="597687614"/>
+		<tag k="addr:street" v="Jl. Malabar"/>
+		<tag k="landuse" v="forest"/>
+		<tag k="name" v="Hutan Kota Malabar"/>
+	</way>
+</osm>
